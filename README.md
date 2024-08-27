@@ -1,4 +1,4 @@
-# materia-para-DAWeb_BD_5I
+# material-para-DAWeb_BD_5I
 tenemos link de referencia mas documentos agosto 2024
 - justhin sanchez 5-i
 ## desarrollo web
@@ -10,3 +10,14 @@ tenemos link de referencia mas documentos agosto 2024
 
 - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
 - https://www.mclibre.org/
+
+## framework y lenguaje de programacion
+- paginas web para programacion
+- https://www.w3schools.com/
+- python https://www.w3schools.com/python/default.asp
+- 
+- Descargar python
+- https://www.python.org/downloads/
+- 
+- programacion online
+- https://coddy.tech/
